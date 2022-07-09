@@ -1,0 +1,19 @@
+#apresentação {
+    color: rgb(43, 105, 86);
+    background-image: url(../imagens/cidadefundo.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
+#lista {
+    color: rgb(43, 105, 86);
+}
+
+.destaque {
+    color: rgb(43, 105, 86);
+}
+
+#titulo {
+    color: rgb(43, 105, 86);
+}

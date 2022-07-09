@@ -1,0 +1,20 @@
+
+body {
+background-image: url(material/cidadefundo.jpeg) ;
+}
+#apresentação {
+    color:gray;
+    background-color: aqua;
+}
+
+#lista {
+    color: brown;
+}
+
+.destaque {
+    color: darkgreen;
+}
+
+#titulo {
+    color: rgb(245, 184, 61);
+}
